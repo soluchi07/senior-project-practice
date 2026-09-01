@@ -1,5 +1,5 @@
 # senior-project-practice
-This is a group senior project that solves the following problem"
+This is a group senior project that solves the following problem
 > [insert problem statement and rationale here]
 
 The group members wokring with me are:
